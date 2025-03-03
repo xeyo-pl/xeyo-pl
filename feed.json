@@ -14,7 +14,7 @@
             "url": "https://xeyo.pl/whats-up/",
             "title": "Whats up?",
             "summary": "Hier geht bald was.",
-            "content_html": "<p>Hier geht bald was.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://xeyo.pl/media/posts/1/41Ee7dMmtVL._SY445_SX342_.jpg\" alt=\"\" width=\"303\" height=\"445\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://xeyo.pl/media/posts/1/responsive/41Ee7dMmtVL._SY445_SX342_-xs.jpg 640w ,https://xeyo.pl/media/posts/1/responsive/41Ee7dMmtVL._SY445_SX342_-sm.jpg 768w ,https://xeyo.pl/media/posts/1/responsive/41Ee7dMmtVL._SY445_SX342_-md.jpg 1024w ,https://xeyo.pl/media/posts/1/responsive/41Ee7dMmtVL._SY445_SX342_-lg.jpg 1366w ,https://xeyo.pl/media/posts/1/responsive/41Ee7dMmtVL._SY445_SX342_-xl.jpg 1600w ,https://xeyo.pl/media/posts/1/responsive/41Ee7dMmtVL._SY445_SX342_-2xl.jpg 1920w\"></figure>",
+            "content_html": "<p>Hier geht bald was.</p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://xeyo.pl/media/posts/1/41Ee7dMmtVL._SY445_SX342_.jpg\" alt=\"\" width=\"303\" height=\"445\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://xeyo.pl/media/posts/1/responsive/41Ee7dMmtVL._SY445_SX342_-xs.jpg 300w ,https://xeyo.pl/media/posts/1/responsive/41Ee7dMmtVL._SY445_SX342_-sm.jpg 480w ,https://xeyo.pl/media/posts/1/responsive/41Ee7dMmtVL._SY445_SX342_-md.jpg 768w ,https://xeyo.pl/media/posts/1/responsive/41Ee7dMmtVL._SY445_SX342_-lg.jpg 1024w\"></figure>",
             "author": {
                 "name": "xeyo"
             },
