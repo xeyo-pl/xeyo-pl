@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "xeyo.pl",
+    "description": "",
+    "home_page_url": "https://xeyo.pl",
+    "feed_url": "https://xeyo.pl/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "xeyo"
+    },
+    "items": [
+        {
+            "id": "https://xeyo.pl/whats-up.html",
+            "url": "https://xeyo.pl/whats-up.html",
+            "title": "Whats up?",
+            "author": {
+                "name": "xeyo"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-03T17:41:49+01:00",
+            "date_modified": "2025-03-03T17:41:49+01:00"
+        }
+    ]
+}

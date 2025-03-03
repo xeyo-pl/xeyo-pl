@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>xeyo.pl</title>
+    <link href="https://xeyo.pl/feed.xml" rel="self" />
+    <link href="https://xeyo.pl" />
+    <updated>2025-03-03T17:41:49+01:00</updated>
+    <author>
+        <name>xeyo</name>
+    </author>
+    <id>https://xeyo.pl</id>
+
+    <entry>
+        <title>Whats up?</title>
+        <author>
+            <name>xeyo</name>
+        </author>
+        <link href="https://xeyo.pl/whats-up.html"/>
+        <id>https://xeyo.pl/whats-up.html</id>
+
+        <updated>2025-03-03T17:41:49+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
