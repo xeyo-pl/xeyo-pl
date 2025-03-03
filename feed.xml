@@ -3,7 +3,7 @@
     <title>xeyo.pl</title>
     <link href="https://xeyo.pl/feed.xml" rel="self" />
     <link href="https://xeyo.pl" />
-    <updated>2025-03-03T18:09:34+01:00</updated>
+    <updated>2025-03-03T18:22:11+01:00</updated>
     <author>
         <name>xeyo</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>xeyo</name>
         </author>
-        <link href="https://xeyo.pl/whats-up.html"/>
-        <id>https://xeyo.pl/whats-up.html</id>
+        <link href="https://xeyo.pl/whats-up/"/>
+        <id>https://xeyo.pl/whats-up/</id>
 
         <updated>2025-03-03T17:41:49+01:00</updated>
             <summary>
