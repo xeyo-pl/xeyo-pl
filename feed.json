@@ -14,14 +14,14 @@
             "url": "https://xeyo.pl/whats-up/",
             "title": "Hello World!",
             "summary": "Hier geht bald was!",
-            "content_html": "<p>Hier geht bald was!</p>\n<p> </p>\n<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://xeyo.pl/media/posts/1/gallery/Gk5cyaZXwAENnR0-2.jpeg\" data-size=\"453x600\"><img loading=\"lazy\" src=\"https://xeyo.pl/media/posts/1/gallery/Gk5cyaZXwAENnR0-2-thumbnail.jpeg\" alt=\"\" width=\"453\" height=\"600\"></a></figure>\n</div></div>\n<p> </p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://xeyo.pl/media/posts/1/Gk5cyaZXwAENnR0-2.jpeg\" alt=\"\" width=\"453\" height=\"600\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://xeyo.pl/media/posts/1/responsive/Gk5cyaZXwAENnR0-2-xs.jpeg 300w ,https://xeyo.pl/media/posts/1/responsive/Gk5cyaZXwAENnR0-2-sm.jpeg 480w ,https://xeyo.pl/media/posts/1/responsive/Gk5cyaZXwAENnR0-2-md.jpeg 768w\"></figure>",
+            "content_html": "<p>Hier geht bald was!</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://xeyo.pl/media/posts/1/Gk5cyaZXwAENnR0-2.jpeg\" alt=\"\" width=\"453\" height=\"600\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://xeyo.pl/media/posts/1/responsive/Gk5cyaZXwAENnR0-2-xs.jpeg 300w ,https://xeyo.pl/media/posts/1/responsive/Gk5cyaZXwAENnR0-2-sm.jpeg 480w ,https://xeyo.pl/media/posts/1/responsive/Gk5cyaZXwAENnR0-2-md.jpeg 768w\"></figure>",
             "author": {
                 "name": "xeyo"
             },
             "tags": [
             ],
             "date_published": "2025-03-03T17:41:49+01:00",
-            "date_modified": "2025-03-05T11:21:05+01:00"
+            "date_modified": "2025-03-05T11:23:22+01:00"
         }
     ]
 }
