@@ -3,14 +3,14 @@
     <title>xeyo.pl</title>
     <link href="https://xeyo.pl/feed.xml" rel="self" />
     <link href="https://xeyo.pl" />
-    <updated>2025-03-05T11:06:16+01:00</updated>
+    <updated>2025-03-05T11:21:05+01:00</updated>
     <author>
         <name>xeyo</name>
     </author>
     <id>https://xeyo.pl</id>
 
     <entry>
-        <title>Whats up?</title>
+        <title>Hello World!</title>
         <author>
             <name>xeyo</name>
         </author>
@@ -27,9 +27,11 @@
             <![CDATA[
                 <p>Hier geht bald was!</p>
 <p> </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="1">
 <figure class="gallery__item"><a href="https://xeyo.pl/media/posts/1/gallery/Gk5cyaZXwAENnR0-2.jpeg" data-size="453x600"><img loading="lazy" src="https://xeyo.pl/media/posts/1/gallery/Gk5cyaZXwAENnR0-2-thumbnail.jpeg" alt="" width="453" height="600"></a></figure>
 </div></div>
+<p> </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://xeyo.pl/media/posts/1/Gk5cyaZXwAENnR0-2.jpeg" alt="" width="453" height="600" sizes="(max-width: 48em) 100vw, 768px" srcset="https://xeyo.pl/media/posts/1/responsive/Gk5cyaZXwAENnR0-2-xs.jpeg 300w ,https://xeyo.pl/media/posts/1/responsive/Gk5cyaZXwAENnR0-2-sm.jpeg 480w ,https://xeyo.pl/media/posts/1/responsive/Gk5cyaZXwAENnR0-2-md.jpeg 768w"></figure>
             ]]>
         </content>
     </entry>
